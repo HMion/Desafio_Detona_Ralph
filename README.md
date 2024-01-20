@@ -8,7 +8,7 @@
 
 ## 📖Proposta:
 
-Desenvolver um jogo com as ferramentas HTML, CSS e JavaScript para desenvolver um jogo.
+Desenvolver um jogo com as ferramentas HTML, CSS e JavaScript para desenvolver um jogo como parte do Desafio de Projeto da <a href="https://web.dio.me/">DIO.me</a>.
 
 ## Resultado:
 
